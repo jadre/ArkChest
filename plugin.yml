@@ -1,0 +1,11 @@
+name: ArkChest
+main: co.arkfall.play.ArkChest.ArkChest
+version: 1.0
+
+commands:
+  arkchest:
+    permission: ArkChest.AlterChests
+
+permissions:
+  ArkChest.AlterChests:
+    default: op
