@@ -12,6 +12,11 @@
 bin/*
 src/doc/*
 
+# other #
+.classpath
+.project
+.settings/*
+
 # javadocs #
 *.html
 
